@@ -1,0 +1,88 @@
+body {
+    background-image: url("../img/6.jpeg");
+    background-size: cover;    
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cuadrotrs{
+    background-color: hsla(0, 85%, 46%, 0.4);
+    backdrop-filter: blur(3px);
+
+     width: 400px;
+     height: 352px;
+
+     position: relative;
+     top: 50px;
+     left: 30px;
+     border-radius: 15px;
+     border: 5px black double;
+}
+
+
+
+
+
+
+.user{
+    background-color: rgba(255, 6, 6, 0.726);
+    color: black;
+    position: relative;
+    top: 40px;
+    left: 20px;
+
+    width: 360px;
+    height: 40px;
+    font-size: 20px;
+    margin: 10px 0px;
+}
+
+.password{
+    background-color: rgba(255, 6, 6, 0.726);
+    color: rgb(39, 255, 39);
+    position: relative;
+    top: 40px;
+    left: 20px;
+    width: 360px;
+    height: 40px;
+    font-size: 20px;
+}
+
+.Log-in{
+    background-color: rgb(72, 255, 0);
+    color: black;
+    position: relative;
+    top: 100px;
+    left: 20px;
+
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+}
+
+
+.limpiar{
+    background-color: red;
+    color: black;
+    position: relative;
+    top: 100px;
+    left: 30px;
+
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+}
+
+.Register{
+    background-color: rgb(72, 255, 0);
+    color: black;
+    position: relative;
+    top: 100px;
+    left: 20px;   
+
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+}
